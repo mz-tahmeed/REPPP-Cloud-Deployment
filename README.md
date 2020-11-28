@@ -1,4 +1,9 @@
 # REPPP-Cloud-Deployment Overview
+## Website UI
+
+![](images/Screenshot_1.png)
+![](images/Screenshot_2.png)
+
 
 This is the Cloud deployment Part of **Real-Estate-Price-Prediction-Project**. 
 
